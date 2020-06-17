@@ -1,2 +1,2 @@
 # Machine Learning
-Data Analysis and Applied Machine Learning models on Datasets
+Exploratory Data Analysis and Applying Machine Learning Algorithms on various datasets
